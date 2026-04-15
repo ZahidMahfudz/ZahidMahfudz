@@ -1,16 +1,35 @@
-## Hi there 👋
+![Zahid Mahfudz](img/github-header-banner(1).png)
+<space>
+## 🙋‍♂️ About Me
+Hi! I'm a Backend-focused Developer with strong interest in building scalable systems and clean architecture.
 
-<!--
-**ZahidMahfudz/ZahidMahfudz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building backend services using **Golang & Javascript**
+- 🌱 Exploring **Scalable architecture, DevOps, and System Design**
+- ⚡ Passionate about **performance, clean code, and real-world problem solving**
+- 🎯 Goal: Becoming a **high-impact software engineer**
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- Building scalable backend systems with Golang 
+- Learning to build a proper platform
+
+<br />
+
+## 🛠️ Tech Stack
+
+| Category         | Skills                                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
+| 🚀 Backend        | <img src="https://skillicons.dev/icons?i=go,nodejs,javascript,typescript,php,laravel,express" /> |
+| 🎨 Frontend       | <img src="https://skillicons.dev/icons?i=nextjs" />                                              |
+| 🗄️ Database       | <img src="https://skillicons.dev/icons?i=mysql,postgres" />                                      |
+| ⚙️ Tools & DevOps | <img src="https://skillicons.dev/icons?i=vscode,postman,git,docker,linux" />                     |
+
+<br />
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/USERNAME)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/USERNAME)
+[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/6285741700979)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:your-email@example.com)
