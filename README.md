@@ -1,5 +1,12 @@
 ![Zahid Mahfudz](img/github-header-banner(1).png)
-<space>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahidmahfudz&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidmahfudz&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<br />
 ## 🙋‍♂️ About Me
 Hi! I'm a Backend-focused Developer with strong interest in building scalable systems and clean architecture.
 
