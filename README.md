@@ -4,6 +4,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zahidmahfudz&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidmahfudz&layout=compact&theme=tokyonight" height="150" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahidmahfudz/zahidmahfudz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zahidmahfudz/zahidmahfudz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zahidmahfudz/zahidmahfudz/output/pacman-contribution-graph.svg">
+</picture>
 </p>
 
 <br />
