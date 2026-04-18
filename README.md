@@ -13,6 +13,49 @@
 
 <br />
 
+## 🚀 Featured Projects
+
+<details>
+<summary>🧩 <b>CollabForge Platform</b> — Portfolio-Based Social Platform Backend (Ongoing)</summary>
+
+<br />
+
+A backend system for **CollabForge**, a portfolio-based social platform designed to showcase real project experiences. This platform emphasizes **authentic credibility**, where user portfolios are validated based on actual task completion and contributions within projects.
+
+<br />
+
+| Category       | Description                                                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚙️ Tech Stack   | Golang (Fiber), PostgreSQL                                                                                                                        |
+| ✨ Features     | - Authentication & Authorization <br> - Project & Task Management API <br> - Portfolio validation based on contribution <br> - RESTful API Design |
+| 🧱 Architecture | Clean Architecture                                                                                                                                |
+| 🔗 Repository   | https://github.com/ZahidMahfudz/collabforge-platform                                                                                              |
+
+</details>
+
+---
+
+<details>
+<summary>📦 <b>Family Database</b> — Interactive Family Tree System</summary>
+
+<br />
+
+An interactive family database application with a dynamic family tree visualization.  
+Built using **Next.js** for the frontend and **Google Apps Script** as a serverless backend to manage and serve data via API.
+
+<br />
+
+| Category       | Description                                                                                                                                                           |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚙️ Tech Stack   | Next.js, Balkangraph (Family Tree), Google Apps Script, Google Sheets                                                                                                 |
+| ✨ Features     | - Interactive family tree visualization <br> - Member profile management <br> - Detailed relationship system <br> - Role-based access (manage spouse & children data) |
+| 🧱 Architecture | API-Driven (Client–Server) with Serverless Backend (Google Apps Script)                                                                                               |
+| 🔗 Repository   | https://github.com/ZahidMahfudz/bani_kertowardoyo_database                                                                                                            |
+
+</details>
+
+<br />
+
 ## 🙋‍♂️ About Me
 Hi! I'm a Backend-focused Developer with strong interest in building scalable systems and clean architecture.
 
@@ -24,8 +67,29 @@ Hi! I'm a Backend-focused Developer with strong interest in building scalable sy
 <br />
 
 ## 🔥 Current Focus
-- Building scalable backend systems with Golang 
-- Learning to build a proper platform
+- 🚀 Building a scalable backend platform (CollabForge)
+- 🧱 Practicing Clean Architecture & modular design
+- ⚙️ Learning Docker & basic CI/CD workflows
+
+<br />
+
+
+
+## 🏗️ Backend Interests
+
+- RESTful API Design
+- Authentication & Authorization (JWT, OAuth)
+- Database Design & Query Optimization
+- System Design & Scalability
+
+<br />
+
+## 🧠 Engineering Mindset
+
+- Writing clean, maintainable, and scalable code
+- Designing systems before jumping into implementation
+- Focusing on performance and efficiency
+- Always thinking in terms of real-world use cases
 
 <br />
 
