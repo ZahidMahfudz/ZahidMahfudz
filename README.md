@@ -1,11 +1,21 @@
 ![Zahid Mahfudz](img/github-header-banner(1).png)
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahidmahfudz&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidmahfudz&layout=compact&theme=tokyonight" height="150" />
-  <picture>
+  <a href="https://github.com/zahidmahfudz">
+    <img 
+      width="54%" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=zahidmahfudz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    />
+  </a>
+  <a>
+    <img 
+      width="39%" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zahidmahfudz&layout=compact&langs_count=8&theme=algolia"
+    />
+  </a>
 </p>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahidmahfudz/zahidmahfudz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zahidmahfudz/zahidmahfudz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zahidmahfudz/zahidmahfudz/output/pacman-contribution-graph.svg">
