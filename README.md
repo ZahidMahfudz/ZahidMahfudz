@@ -67,12 +67,14 @@ Built using **Next.js** for the frontend and **Google Apps Script** as a serverl
 <br />
 
 ## 🙋‍♂️ About Me
-Hi! I'm a Backend-focused Developer with strong interest in building scalable systems and clean architecture.
 
-- 🔭 Currently building backend services using **Golang & Javascript**
-- 🌱 Exploring **Scalable architecture, DevOps, and System Design**
-- ⚡ Passionate about **performance, clean code, and real-world problem solving**
-- 🎯 Goal: Becoming a **high-impact software engineer**
+I'm a backend-focused developer who sees code as a craft. Every API I design, every query I optimize, and every service I build is driven by the belief that great software starts with a solid foundation.
+
+My journey began with curiosity — tearing things apart to understand how they work, then putting them back together better. That curiosity evolved into a passion for **clean architecture**, **scalable systems**, and **real-world problem solving**.
+
+Right now, I'm deep in the backend world with **Golang** and **Javascript**, building services that don't just work — they endure. I believe in writing code that the next developer (and future me) can read without a headache, and designing systems that breathe easy under load.
+
+Beyond the code, I'm constantly exploring **DevOps**, **system design**, and the art of shipping reliable software. My ultimate goal isn't just to write code — it's to create **impact**. Whether it's a platform that connects people through real project contributions or a tool that makes someone's day a little easier, I want what I build to matter.
 
 <br />
 
